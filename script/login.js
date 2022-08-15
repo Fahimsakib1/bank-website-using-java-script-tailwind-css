@@ -20,7 +20,7 @@ document.getElementById('login-button').addEventListener('click', function(event
     }
 
     else{
-        alert("Please Give Corrent Emaiil And Password To Login ");
+        alert("Please Give Corrent Email And Password To Login ");
         emailField.value = '';
         passwordField.value = '';
     }
